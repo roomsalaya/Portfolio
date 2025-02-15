@@ -1,0 +1,4 @@
+name = "my-astro-site"
+type = "javascript"
+account_id = "YOUR_CLOUDFLARE_ACCOUNT_ID"
+workers_dev = true
